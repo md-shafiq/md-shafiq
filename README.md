@@ -1,4 +1,4 @@
-### Hi, I'm Shafiqul Islam 👋
+### Hi, I'm Md.Shafiqul Islam 👋
 **Enterprise Software Engineer | Data & AI Engineering Enthusiast | Systems Architect**
 
 I am an experienced Software Engineer with nearly two decades of background building mission-critical enterprise systems, high-concurrency databases, and secure backend applications. Today, I am channeling that production engineering foundation into **Data Engineering, Machine Learning, Generative AI, and AI Engineering**—focusing on building practical, real-world intelligent applications and making technical education accessible in **Bangla**.
