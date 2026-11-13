@@ -3,7 +3,7 @@
 
 I am an experienced Software Engineer with nearly two decades of background building mission-critical enterprise systems, high-concurrency databases, and secure backend applications. Today, I am channeling that production engineering foundation into **Data Engineering, Machine Learning, Generative AI, and AI Engineering**—focusing on building practical, real-world intelligent applications and making technical education accessible in **Bangla**.
 
-- 🌐 **Tutorials, Books & Portfolio:** [shafiq2410.github.io](https://shafiq2410.github.io)
+- 🌐 **Tutorials, Books & Portfolio:** [md-shafiq.github.io/md-shafiq/](https://md-shafiq.github.io/md-shafiq/)
 - 🎓 **Learning Initiative:** **DATA TO CAREER** — *Data Analytics থেকে AI Engineering*
 - 💡 **Core Focus:** Enterprise Databases • Backend Architecture • LLMs, RAG & AI Agents
 
